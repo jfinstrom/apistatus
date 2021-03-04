@@ -1,28 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: jfinstrom # Your GitHub username
+repo: apistatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: CIP Mirror
+    method: POST
+    url: https://mirror.clearlyip.com/all-15.0.xml
+  - name: FreePBX Mirror HTTP Endpoint
+    method: POST
+    url: http://mirror.freepbx.org/all-15.0.xml
+  - name: FreePBX Mirror HTTPS Endpoint
+    method: POST
+    url: https://mirror.freepbx.org/all-15.0.xml
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Personal Page
+    url: https://g3p0.xyz
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: apistatus.site
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -32,7 +32,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: James custom uptime watcher
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
