@@ -13,8 +13,6 @@ sites:
   - name: FreePBX Mirror HTTPS Endpoint
     method: POST
     url: https://mirror.freepbx.org/all-15.0.xml
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Personal Page
     url: https://g3p0.xyz
   - name: TCP ping
