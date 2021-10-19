@@ -22,7 +22,7 @@
     "url": "http://mirror.freepbx.org/all-15.0.xml",
     "icon": "https://favicons.githubusercontent.com/mirror.freepbx.org",
     "slug": "free-pbx-mirror-http-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2598,
     "timeDay": 818,
-    "timeWeek": 1453,
+    "timeWeek": 1433,
     "timeMonth": 1699,
     "timeYear": 2598,
     "dailyMinutesDown": {}
