@@ -1,7 +1,7 @@
 url: https://mirror.freepbx.org/all-15.0.xml
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2022-06-28T23:01:44.147Z
+status: down
+code: 403
+responseTime: 53
+lastUpdated: 2022-06-29T22:39:13.869Z
 startTime: Thu Mar 04 2021 23:52:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
