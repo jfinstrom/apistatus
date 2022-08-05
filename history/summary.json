@@ -4,7 +4,7 @@
     "url": "https://mirror.clearlyip.com/all-15.0.xml",
     "icon": "https://favicons.githubusercontent.com/mirror.clearlyip.com",
     "slug": "cip-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 3073,
     "timeDay": 1292,
-    "timeWeek": 1253,
+    "timeWeek": 1275,
     "timeMonth": 2767,
     "timeYear": 3655,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 70,
     "timeDay": 68,
-    "timeWeek": 58,
+    "timeWeek": 56,
     "timeMonth": 79,
     "timeYear": 70,
     "dailyMinutesDown": {}
